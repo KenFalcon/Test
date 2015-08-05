@@ -1,4 +1,4 @@
 # Test
 Testing Git Hub
 
-[Read more words!](docs/more_words.md)
+[Learning Markdown!](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
